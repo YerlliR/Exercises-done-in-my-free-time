@@ -14,4 +14,4 @@
   el resultado se imprime al final del programa
   
   ### Link of exercise:
-    https://aceptaelreto.com/problem/statement.php?id=247
+  https://aceptaelreto.com/problem/statement.php?id=247
