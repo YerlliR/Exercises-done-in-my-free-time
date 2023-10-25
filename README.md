@@ -63,3 +63,14 @@
   Además, implementa un método en la clase Producto llamado calcularValorTotal que calcule el valor total de los productos en stock multiplicando el precio por la cantidad. Muestra el valor total al final del programa.
   
   Este ejercicio te permitirá practicar la creación de constructores en Java y cómo utilizarlos para inicializar objetos de una clase de diferentes maneras. También te dará la oportunidad de trabajar con atributos y métodos de clase.
+
+
+
+
+
+  ## Ex2:
+  ### English:
+  I have improved the previous exercise very considerably, now with this program you can make a simulation of purchasing the products you want.
+
+  ### Español:
+  He mejorado de manera muy muy considerable el ejercicio anterior, ahora con este programa puedes hacer una simulación de compra de los productos que tú desees.
