@@ -1,8 +1,6 @@
 # Exercises-done-in-my-free-time
 
 
-
-
 ## Ex1:
 
   ### English:
@@ -15,3 +13,53 @@
   
   ### Link of exercise:
   https://aceptaelreto.com/problem/statement.php?id=247
+
+
+
+
+
+## Ex2:
+  ### English:
+  I have requested this Exercise from an AI because I wanted to learn about constructors in Java.
+  
+  Statement:
+  Create a class called Product that represents a product in a store. The Product class must have the following attributes:
+  
+  name (String) – The name of the product.
+  price (double): the price of the product.
+  quantity (int): The number of available units of the product.
+  
+  Create three constructors for the Product class:
+  
+  A constructor that takes the product name and price as parameters, and sets the quantity to 0.
+  A constructor that takes the name, price and quantity of the product as parameters.
+  A constructor that takes only the product name as a parameter and sets the price to 0 and the quantity to 0.
+  
+  Then, in the main method, create at least three Product objects using the different constructors and display the information for each product, including its name, price, and quantity.
+  
+  Additionally, implement a method in the Product class called calculateTotalValue that calculates the total value of the products in stock by multiplying the price by the quantity. Shows the total value at the end of the program.
+  
+  This exercise will allow you to practice creating constructors in Java and how to use them to initialize objects of a class in different ways. It will also give you the opportunity to work with class attributes and methods.
+
+
+  ### Español:
+  Este Ejercicio se lo he solicitado a una IA porque quería aprender sobre los constructores en java.
+  
+  Enunciado:
+  Crea una clase llamada Producto que represente un producto en una tienda. La clase Producto debe tener los siguientes atributos:
+  
+  nombre (String): el nombre del producto.
+  precio (double): el precio del producto.
+  cantidad (int): la cantidad de unidades disponibles del producto.
+  
+  Crea tres constructores para la clase Producto:
+  
+  Un constructor que tome como parámetros el nombre y el precio del producto, y establezca la cantidad en 0.
+  Un constructor que tome como parámetros el nombre, el precio y la cantidad del producto.
+  Un constructor que tome como parámetro solo el nombre del producto y establezca el precio en 0 y la cantidad en 0.
+  
+  Luego, en el método main, crea al menos tres objetos Producto utilizando los diferentes constructores y muestra la información de cada producto, incluyendo su nombre, precio y cantidad.
+  
+  Además, implementa un método en la clase Producto llamado calcularValorTotal que calcule el valor total de los productos en stock multiplicando el precio por la cantidad. Muestra el valor total al final del programa.
+  
+  Este ejercicio te permitirá practicar la creación de constructores en Java y cómo utilizarlos para inicializar objetos de una clase de diferentes maneras. También te dará la oportunidad de trabajar con atributos y métodos de clase.
