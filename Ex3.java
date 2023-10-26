@@ -20,26 +20,6 @@ public class Ex3 {
             this.cantidad = cantidad;
         }
 
-        public Producto(String nombre, double precio) {
-            this.nombre   = nombre;
-            this.precio   = precio;
-            this.cantidad =      0;
-        }
-
-        public Producto(String nombre) {
-            this.nombre   = nombre;
-            this.precio   =      0;
-            this.cantidad =      0;
-        }
-
-        public Producto(String nombre, int cantidad) {
-            this.nombre   =   nombre;
-            this.precio   =        0;
-            this.cantidad = cantidad;
-        }
-
-
-
         public double calcularValorTotal() {
             return precio * cantidad;
         }
@@ -48,6 +28,10 @@ public class Ex3 {
             System.out.println("Nombre: "   +   nombre);
             System.out.println("Precio: "   +   precio);
             System.out.println("Cantidad: " + cantidad);
+        }
+
+        public void precioFinal(){
+
         }
 
     }
