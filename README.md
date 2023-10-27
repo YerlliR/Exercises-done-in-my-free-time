@@ -68,7 +68,7 @@
 
 
 
-  ## Ex2:
+  ## Ex3:
   ### English:
   I have improved the previous exercise very considerably, now with this program you can make a simulation of purchasing the products you want.
 
