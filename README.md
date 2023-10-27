@@ -74,3 +74,16 @@
 
   ### Español:
   He mejorado de manera muy muy considerable el ejercicio anterior, ahora con este programa puedes hacer una simulación de compra de los productos que tú desees.
+
+
+
+
+
+ ## Ex4:
+  ### English:
+  This program is simple, it is a calculator for perimeters and areas of geometric figures in two dimensions.
+  I do this exercise and the previous ones to apply and try to improve my programming habits to program in the most correct and clean way possible.
+
+  ### Español:
+  Este programa es simple, es una calculadora de perímetros y áreas de figuras geométricas en dos dimensiones.
+  Este ejercicio y los anteriores los hago para aplicar e intentar mejorar mis hábitos de programación para programar de la manera más correcta y limpia posible
